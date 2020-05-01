@@ -1,0 +1,18 @@
+# NightyNight
+
+Change specific Spotify playlist with a random album from an artist.
+
+This can be used as a static playlist by Google Home for a random
+album each night.
+
+## Usage
+
+Set the following variables:
+
+```sh
+export SPOTIPY_CLIENT_ID=
+export SPOTIPY_CLIENT_SECRET=
+export SPOTIPY_REDIRECT_URI=http://localhost/callback
+```
+
+With information set in https://developer.spotify.com/dashboard

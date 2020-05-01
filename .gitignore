@@ -1,3 +1,6 @@
+init.sh
+.cache-datosh-de
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
